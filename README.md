@@ -1,10 +1,10 @@
 ### Hi there, I'm Alexandr Gribcov 👋
 
-Senior Full Stack Engineer, Frontend Lead & Tech Lead with 12+ years of production experience (6+ years fully remote). I build reliable web architectures, lead development teams, and integrate practical AI solutions into business workflows.
+Senior Full Stack Engineer, Frontend Lead & Team Lead with 12+ years of production experience (6+ years fully remote). I build reliable web architectures, lead development teams, and integrate practical AI solutions into business workflows.
 
 🌐 **Hub & LLM Context:** [gribcov.me](https://gribcov.me/) | [gribcov.me/llms.txt](https://gribcov.me/llms.txt)  
 💼 **Availability:** Open to selective contract engagements, architecture advisory & senior IC / tech lead roles.  
-🌍 **Location & Timezone:** Remote-first (EU timezones, UTC+2/+3).
+🌍 **Location & Timezone:** Remote-first (EU / UK / US timezones, UTC+2/+3).
 
 ---
 
@@ -22,7 +22,7 @@ Senior Full Stack Engineer, Frontend Lead & Tech Lead with 12+ years of producti
 - **Frontend:** TypeScript, JavaScript, React, Next.js, Angular, TanStack Query, Zustand, Redux, TailwindCSS, Vite.
 - **Backend & APIs:** Node.js, Nest.js, Express, GraphQL, REST APIs, tRPC.
 - **Databases & Storage:** PostgreSQL, Redis, MongoDB, SQLite, Cloudflare D1 / KV / R2, LanceDB (vectors).
-- **Cloud & DevOps:** Cloudflare Workers & Pages, AWS, GCP, Docker, GitHub Actions, CI/CD pipelines.
+- **Cloud & DevOps:** AWS, GCP, Cloudflare Workers & Pages, Docker, GitHub Actions, CI/CD pipelines.
 - **Testing:** Playwright, Vitest, Cypress, Jest.
 
 ---
