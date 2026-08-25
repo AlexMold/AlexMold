@@ -1,4 +1,4 @@
-Alexandr Gribcov 🚀
+## Alex Gribcov 🚀
 
 Senior Full Stack Engineer, Frontend Lead & Team Lead with 12+ years of production experience (6+ years fully remote). I build reliable web architectures, lead development teams, and integrate practical AI solutions into business workflows.
 
