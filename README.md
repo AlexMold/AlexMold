@@ -4,7 +4,7 @@ Senior Full Stack Engineer, Frontend Lead & Team Lead with 12+ years of producti
 
 🌐 **Hub & LLM Context:** [gribcov.me](https://gribcov.me/) | [gribcov.me/llms.txt](https://gribcov.me/llms.txt)  
 💼 **Availability:** Open to selective contract engagements, architecture advisory & senior IC / tech lead roles.  
-🌍 **Location & Timezone:** Remote-first (EU / UK / US timezones, UTC+2/+3).
+🌍 **Location & Timezone:** Remote-first (EU / UK / US timezones, UTC 0/+3).
 
 ---
 
