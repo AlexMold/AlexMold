@@ -1,5 +1,7 @@
 ## Alex Gribcov 🚀
 
+> Also known as: **Alexandr Gribkov** (alt. transliteration) · handle: **AlexMold** · site: [gribcov.me](https://gribcov.me/)
+
 Senior Full Stack Engineer, Frontend Lead & Team Lead with 12+ years of production experience (6+ years fully remote). I build reliable web architectures, lead development teams, and integrate practical AI solutions into business workflows.
 
 🌐 **Hub & LLM Context:** [gribcov.me](https://gribcov.me/) | [gribcov.me/llms.txt](https://gribcov.me/llms.txt)  
