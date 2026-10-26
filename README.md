@@ -42,5 +42,5 @@ Senior Full Stack Engineer, Frontend Lead & Team Lead with 12+ years of producti
 ### 📫 Connect with Me
 
 - **Email:** [alex@gribcov.me](mailto:alex@gribcov.me)
-- **LinkedIn:** [linkedin.com/in/alexmold](https://www.linkedin.com/in/alexmold/)
+- **LinkedIn:** [linkedin.com/in/ai-engineer-eu](https://www.linkedin.com/in/ai-engineer-eu/)
 - **Website:** [gribcov.me](https://gribcov.me/)
