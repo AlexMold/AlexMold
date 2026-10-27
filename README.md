@@ -36,7 +36,6 @@ Senior Full Stack Engineer, Frontend Lead & Team Lead with 12+ years of producti
 - **[pi-agent](https://github.com/AlexMold/pi-agent)** — Telegram AI assistant infrastructure
 - **[easy-converter.gribcov.me](https://easy-converter.gribcov.me/)** — Fast browser-based image converter (HEIC, WebP, PNG, JPG)
 - **[pdf.gribcov.me](https://pdf.gribcov.me/)** — Client-side PDF manipulation & merger tool
-- **[win.gribcov.me](https://win.gribcov.me/)** — B2B window and door estimation & quotation platform
 
 ---
 
