@@ -1,6 +1,6 @@
 ## Alex Gribcov 🚀
 
-> Also known as: **Alexandr Gribkov** (alt. transliteration) · handle: **AlexMold** · site: [gribcov.me](https://gribcov.me/)
+> Also known as: **Alexandr Gribkov** (alt. transliteration) · site: [gribcov.me](https://gribcov.me/)
 
 Senior Full Stack Engineer, Frontend Lead & Team Lead with 12+ years of production experience (6+ years fully remote). I build reliable web architectures, lead development teams, and integrate practical AI solutions into business workflows.
 
@@ -12,8 +12,8 @@ Senior Full Stack Engineer, Frontend Lead & Team Lead with 12+ years of producti
 
 ### 🚀 Key Impact & Track Record
 
-- **WorkFusion (Tech Lead):** Cut client onboarding and support turnaround time from **3 weeks to 30 minutes** by building automated workflows. Architected core design system from scratch (WCAG 2.0).
 - **ListAlpha / Carta (Full Stack):** Built key platform features end-to-end in relationship intelligence CRM, contributing to the acquisition by Carta Inc.
+- **WorkFusion (Tech Lead):** Cut client onboarding and support turnaround time from **3 weeks to 30 minutes** by building automated workflows. Architected core design system from scratch (WCAG 2.0).
 - **Quintegro (Team Lead):** Managed and scaled engineering teams of up to 12 developers across frontend, backend, and QA.
 - **Applied AI:** Hands-on experience with LLM agents, RAG architectures, local models (llama.cpp), and workflow automation.
 
@@ -31,11 +31,12 @@ Senior Full Stack Engineer, Frontend Lead & Team Lead with 12+ years of producti
 
 ### 📦 Live Projects & Products
 
-- **[gribcov.me](https://gribcov.me/)** — Personal engineering hub & use cases.
-- **[easy-converter.gribcov.me](https://easy-converter.gribcov.me/)** — Fast browser-based image converter (HEIC, WebP, PNG, JPG).
-- **[pdf.gribcov.me](https://pdf.gribcov.me/)** — Client-side PDF manipulation & merger tool.
-- **[win.gribcov.me](https://win.gribcov.me/)** — B2B window and door estimation & quotation platform.
-- **[pi-agent](https://github.com/AlexMold/pi-agent)** — Telegram AI assistant infrastructure.
+- **[gribcov.me](https://gribcov.me/)** — Personal engineering hub & use cases
+- **[privacy-gate](https://github.com/AlexMold/pi-privacy-gate)** - PI extension to keep your private data on your end
+- **[pi-agent](https://github.com/AlexMold/pi-agent)** — Telegram AI assistant infrastructure
+- **[easy-converter.gribcov.me](https://easy-converter.gribcov.me/)** — Fast browser-based image converter (HEIC, WebP, PNG, JPG)
+- **[pdf.gribcov.me](https://pdf.gribcov.me/)** — Client-side PDF manipulation & merger tool
+- **[win.gribcov.me](https://win.gribcov.me/)** — B2B window and door estimation & quotation platform
 
 ---
 
